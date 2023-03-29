@@ -11,3 +11,5 @@
 * DiabetesPedigreeFunction: A function that calculates our probability of having diabetes based on our ancestry
 * Age: Age (years)
 * Outcome: Information whether the person has diabetes or not. Have the disease (1) or not (0)
+
+* The target variable is specified as "outcome"; 1 indicates positive diabetes test result, 0 indicates negative.
